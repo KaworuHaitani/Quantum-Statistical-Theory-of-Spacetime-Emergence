@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this theoretical framework, please cite it as below."
+authors:
+  - family-names: "Haitani"
+    given-names: "Kaworu"
+    orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"  # Replace with actual ORCID if available
+title: "Quantum Statistical Theory of Spacetime Emergence"
+version: 1.0.0
+doi: "10.5281/zenodo.XXXXXXX"  # Replace with actual DOI when available
+date-released: 2025-09-02  # Adjust the actual date as needed
+url: "https://github.com/username/repository-name"  # Replace with your actual repository URL
+repository-code: "https://github.com/username/repository-name"  # Replace with your actual repository URL
+license: MIT
+type: article
+keywords:
+  - "quantum emergence"
+  - "spacetime statistics"
+  - "N_q scaling"
+  - "dimensional optimization"
+  - "quantum biology"
+  - "cosmology"
+abstract: >
+  This hypothesis proposes that the structure of spacetime emerges from the statistical aggregation of quantum correlations. 
+  With quantum state number N_q as the driver, the stability of time and space follows a 1/N_q scaling. The spatial dimension 
+  is determined as the solution to a statistical optimization problem, with three dimensions observed due to balance at critical
+  values of N_q. The theory unifies explanations from biological systems (e.g., rotational fluctuations in ATP synthase) to 
+  artificial quantum devices and cosmological phenomena (e.g., CMB temperature fluctuations). This theory extends the concept 
+  of emergent spacetime in quantum gravity from a statistical perspective, providing falsifiable predictions.
